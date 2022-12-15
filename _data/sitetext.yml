@@ -72,18 +72,13 @@ en: &DEFAULT_EN
     title: "About Us"
     text: "our story als"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    output: 
-      html_document:
-        template: assets/img/my_report.html
     section: about
     
-  usmap: 
-    title: "US MAP"
-    text: "This is a p-test on US States"
-    output: 
-      html_document:
-        template: assets/img/my_report.html
-    section: usmap
+  us:
+    title: "Us"
+    text: "our story als"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: us
 
   clients:
     section: clients
