@@ -74,8 +74,8 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
     
-  US MAP: 
-    title: "US Map"
+  usmap: 
+    title: "US MAP"
     text: "This is a p-test on US States"
     output: 
       html_document:
