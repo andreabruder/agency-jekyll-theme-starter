@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
+    - title: "US MAP"
+      section: usmap
     - title: "Timeline"
       section: timeline
     - title: "Team"
