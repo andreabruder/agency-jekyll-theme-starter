@@ -73,6 +73,11 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
+    
+  US Map: 
+    title: "US Map"
+    text: "This is a p-test on US States"
+    section: usmap
 
   clients:
     section: clients
