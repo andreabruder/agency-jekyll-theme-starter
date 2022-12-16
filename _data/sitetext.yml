@@ -68,14 +68,14 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
+  beer:
+    title: "Beer"
     text: "our story als"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     output:
       html_document:
         template: assets/img/my_report.html
-    section: about
+    section: beer
     
   us:
     title: "Us"
